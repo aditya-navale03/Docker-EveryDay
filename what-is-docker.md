@@ -8,3 +8,8 @@ Docker is like a box/container where you pack your whole project — code, libra
 
 ## inshort 
 👉 Docker means putting your entire project in a container so it runs anywhere without setup problems.
+
+## properties of Docker ##
+1. Portable
+2. Light Weight
+
